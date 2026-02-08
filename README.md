@@ -66,7 +66,7 @@ I don't just follow tutorials; I engineer solutions based on constraints. My wor
 #### 🎮 **[SERVED](https://github.com/dangkhoa-fakemonika/Served-Game-Unity)**
 > *Chaotic Restaurant Management Simulator*
 * **Tech:** Unity (C#).
-* **Key Features:** A pixel-art simulation featuring complex state-machine AI for customers and inventory management minigames. Focused on "Game Feel" and strict resource management mechanics.
+* **Key Features:** A pixel-art simulation featuring complex state-machine for customers and ingredients minigames. Focused on "Game Feel" and strict resource management mechanics.
 
 #### 📱 **[Lookout](https://github.com/dangkhoa-fakemonika/T1_Repo)**
 > *Campus Event Tracking App*
