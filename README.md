@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff" alt="Header" />
   
-  <h1>I'm <a href="https://your-portfolio-link.com">Khoa</a></h1>
+  <h1>I'm <a href="https://dangkhoa-fakemonika.vercel.app">Khoa</a></h1>
   
   <p>
     <strong>Software Engineer & Game Developer</strong><br/>
@@ -47,7 +47,7 @@ I don't just follow tutorials; I engineer solutions based on constraints. My wor
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
 | **Web Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white) |
 | **Web Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=white) |
 | **Game Dev** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=flat&logo=gamemaker&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-333333?style=flat&logo=python&logoColor=white) |
@@ -73,15 +73,7 @@ I don't just follow tutorials; I engineer solutions based on constraints. My wor
 * **Tech:** Flutter, Firebase.
 * **Key Features:** Built using strict **Agile/Scrum** (2-week sprints). Features role-based authorization (Admin/Student) and real-time data streams from Firestore.
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoa-fakemonika&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
----
+--
 
 <div align="center">
   <p>Thanks for visiting! Feel free to check out my repositories or connect with me on LinkedIn.</p>
