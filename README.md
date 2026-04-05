@@ -5,7 +5,7 @@
   
   <p>
     <strong>Software Engineer & Game Developer</strong><br/>
-    Senior at University of Science, VNU-HCM 🎓 | Former Intern at HPT Corp 🏢
+    Senior at University of Science, VNU-HCM 🎓 | Juinior Game Dev at MageTech Corporation 🎮
   </p>
 
   <p>
